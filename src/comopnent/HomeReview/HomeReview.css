@@ -1,0 +1,24 @@
+.review {
+    border: 2px solid rgb(241, 243, 248);
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    background-color: rgb(241, 238, 233);
+    color: #000;
+}
+
+.review img {
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+}
+
+.rating {
+    align-items: center;
+    font-size: 20px;
+    color: goldenrod;
+
+}
